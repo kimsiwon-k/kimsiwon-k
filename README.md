@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+노무현 응디 성능좋다
+
 <!--
 **kimsiwon-k/kimsiwon-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
